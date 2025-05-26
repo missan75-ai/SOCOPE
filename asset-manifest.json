@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/client-management-app/static/css/main.e6c13ad2.css",
-    "main.js": "/client-management-app/static/js/main.fc819118.js",
-    "static/js/453.48d71a8c.chunk.js": "/client-management-app/static/js/453.48d71a8c.chunk.js",
-    "index.html": "/client-management-app/index.html",
-    "main.e6c13ad2.css.map": "/client-management-app/static/css/main.e6c13ad2.css.map",
-    "main.fc819118.js.map": "/client-management-app/static/js/main.fc819118.js.map",
-    "453.48d71a8c.chunk.js.map": "/client-management-app/static/js/453.48d71a8c.chunk.js.map"
+    "main.css": "/SOCOPE/static/css/main.e6c13ad2.css",
+    "main.js": "/SOCOPE/static/js/main.a85c73b5.js",
+    "static/js/453.48d71a8c.chunk.js": "/SOCOPE/static/js/453.48d71a8c.chunk.js",
+    "index.html": "/SOCOPE/index.html",
+    "main.e6c13ad2.css.map": "/SOCOPE/static/css/main.e6c13ad2.css.map",
+    "main.a85c73b5.js.map": "/SOCOPE/static/js/main.a85c73b5.js.map",
+    "453.48d71a8c.chunk.js.map": "/SOCOPE/static/js/453.48d71a8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.fc819118.js"
+    "static/js/main.a85c73b5.js"
   ]
 }
